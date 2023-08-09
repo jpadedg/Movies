@@ -1,0 +1,67 @@
+@use "../../sass/utils/variables" as *;
+
+.MovieDetail{
+
+
+    &__title{
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    &__container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &__image{
+        display: flex;
+        justify-content: center;
+    }
+
+    
+    img{
+        width: 60%;
+    }
+    
+    h1, span{
+        color: $white;
+    }
+    
+    &__details{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    &__detail{
+        width: 50vw;
+        display: flex;
+        justify-content: left;
+        margin-bottom: 10px;
+    }
+
+    &__button{
+        background-color: $blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        margin: 10px 30% 20px 30%;
+        padding: 10px 0 10px 0;
+    }
+
+    &__button:hover{
+        background-color: rgb(1, 1, 124);
+    }
+
+    a{
+        text-decoration: none;
+        color: $white;
+    }
+
+
+}
