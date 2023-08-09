@@ -22,7 +22,7 @@ O projeto foi feito utilizando React + Vite junto com SASS para a estilização 
 
 ## Link para acesso 
 
-- https://movies-lilac-nu.vercel.app 
+- https://movies-flame.vercel.app
 
 
 
