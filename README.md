@@ -9,20 +9,44 @@ Um buscador de filmes que é alimentado por uma API, é possivel buscar um filme
 O projeto foi feito utilizando React + Vite junto com SASS para a estilização dos componentes. Foi utilizado React Router para a organização de rotas. O site foi alimentado pelo The Movie DB API. 
 
 
-## Stack utilizada
+## Pré-requisitos
 
-**Front-end:** React, Vite, SASS
+:warning: [Node](https://nodejs.org/en/download/)
+:warning: [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/jpadedg/Movies.git
+```
+
+```
+cd Movies
+```
+
+```
+npm i
+```
+
+```
+npm start
+```
+
+
+## Link para acesso 
+
+- https://movies-flame.vercel.app
+
+- ![image](https://github.com/jpadedg/Movies/assets/57507707/314f96ff-110e-4983-9ef6-ce6be003693e)
+
 
 ## Autores
 
 - [@jpadedg](https://www.github.com/jpadedg)
 
-## Link para acesso 
-
-- https://movies-flame.vercel.app
 
 
 
